@@ -1,0 +1,11 @@
+# NEVER COMMIT PRIVATE KEYS
+keys.txt
+*.key
+*.private
+~/.config/sops/age/
+
+# temp files
+*.swp
+*.tmp
+*~
+
