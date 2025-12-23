@@ -1,0 +1,6 @@
+creation_rules:
+  - path_regex: 'secrets/database/.*\.enc\.yaml$'
+    age: 'age128k9yw2zjlv8qlljsq0427nx6v0fwd7mw08dg2zwrzxt82tla99s03wlqr'
+
+sops_version: 3.8.1
+
